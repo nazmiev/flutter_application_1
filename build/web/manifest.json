@@ -3,30 +3,30 @@
   "short_name": "flutter_application_1",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#191919",
-  "theme_color": "#191919",
+  "background_color": "#0175C2",
+  "theme_color": "#0175C2",
   "description": "A new Flutter project.",
-  "orientation": "portrait-primary",
+  "orientation": "portrait",
   "prefer_related_applications": false,
   "icons": [
     {
-      "src": "icons/Icons-192.png",
+      "src": "icons/Icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icons/Icons-512.png",
+      "src": "icons/Icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "icons/Icons-maskable-192.png",
+      "src": "icons/Icon-maskable-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "icons/Icons-maskable-512.png",
+      "src": "icons/Icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
